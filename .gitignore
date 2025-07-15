@@ -5,3 +5,4 @@ prep.md
 start.sh
 *.ipynb
 store_location
+Dockerfile
