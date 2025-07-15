@@ -1,0 +1,15 @@
+{
+  "evaluation_date": "2025-07-15T11:00:43.312981",
+  "total_questions": 10,
+  "in_scope_questions": 5,
+  "scores_percentage": {
+    "faithfulness": 74.96536796536797,
+    "answer_relevancy": 86.85270267143356,
+    "context_precision": 83.99999999460694,
+    "context_recall": 86.66666666666666
+  },
+  "threshold": 80.0,
+  "requirements_met": false,
+  "evaluation_type": "RAGAS Framework Assessment",
+  "chatbot_version": "Educational RAG Chatbot v1.0"
+}

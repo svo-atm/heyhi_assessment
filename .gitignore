@@ -1,0 +1,7 @@
+.streamlit
+__pycache__
+data/*.pdf
+prep.md
+start.sh
+*.ipynb
+store_location

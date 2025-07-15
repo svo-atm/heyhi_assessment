@@ -1,0 +1,15 @@
+# RAGAS Evaluation Dependencies
+ragas>=0.1.0
+datasets>=2.0.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Core dependencies (should already be installed for your chatbot)
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-postgres>=0.0.6
+langchain-community>=0.0.20
+openai>=1.0.0
+
+# Optional: For async support
+asyncio
